@@ -1,5 +1,5 @@
 /**********************************
-|  coding design by panlei 潘磊   |
+|  code design by panlei 潘磊     |
 |  http://www.8bei8.com           |
 |  https://github.com/panleixin   |
 **********************************/
