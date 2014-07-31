@@ -1,5 +1,6 @@
 /**********************************
 |  code design by panlei 潘磊     |
+|         2014.7.31               |
 |  http://www.8bei8.com           |
 |  https://github.com/panleixin   |
 **********************************/
